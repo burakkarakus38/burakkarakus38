@@ -1,16 +1,16 @@
 name: Generate Snake
 
 on:
-  # Her gece yarısı otomatik çalıştır
   schedule:
     - cron: "0 0 * * *" 
-  
-  # İstediğin zaman manuel tetiklemek için
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    permissions: 
+      contents: write
 
     steps:
       - name: Checkout
@@ -19,7 +19,6 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # GitHub kullanıcı adını buraya yazmana gerek yok, otomatik alıyor
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
