@@ -1,5 +1,4 @@
 ### 👋 Selam, Ben Burak!
-
 Hatay Mustafa Kemal Üniversitesi'nde **Yönetim Bilişim Sistemleri (MIS)** öğrencisiyim. Veri tabanı yönetimi, backend geliştirme ve Siber Güvenlik alanlarına odaklanıyorum.
 
 - 🔭 Şu an **MySQL ile veri tabanı mimarisi** üzerine çalışıyorum.
@@ -17,14 +16,15 @@ Hatay Mustafa Kemal Üniversitesi'nde **Yönetim Bilişim Sistemleri (MIS)** ö�
 ---
 
 ### 📊 GitHub İstatistiklerim
-<div align="center">
-  <img src="https://github.com/burakkarakus38/burakkarakus38/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=burakkarakus38&show_icons=true&theme=dark&locale=tr" alt="GitHub Stats" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=burakkarakus38&show_icons=true&theme=dark&locale=tr" alt="GitHub Stats" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/burakkarakus38/burakkarakus38/output/snake.svg)
+---
+
+### 🐍 Katkı Grafiği
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/burakkarakus38/burakkarakus38/output/snake.svg" alt="Snake animation" />
+</div>
