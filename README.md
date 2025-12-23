@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Selam, Ben Ahmet Burak 
 
-<!--
-**burakkarakus38/burakkarakus38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hatay Mustafa Kemal Üniversitesi'nde **Yönetim Bilişim Sistemleri (MIS)** öğrencisiyim. Veri tabanı yönetimi, backend geliştirme ve Siber Güvenlik alanlarına odaklanıyorum.
 
-Here are some ideas to get you started:
+- 🔭 Şu an **MySQL ile veri tabanı mimarisi** üzerine çalışıyorum.
+- 🌱 **C ve Python** kullanarak algoritma mantığımı ve sistem programlama becerilerimi derinleştiriyorum.
+- 🐧 **Kali Linux** üzerinde siber güvenlik araçlarını deneyimliyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Yetkinliklerim & Teknolojiler
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub İstatistiklerim
+<div align="center">
+  <img src="https://github.com/[KULLANICI_ADIN]/[KULLANICI_ADIN]/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=dark&locale=tr" alt="GitHub Stats" />
+  </p>
+</div>
