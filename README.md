@@ -5,8 +5,7 @@ Hatay Mustafa Kemal Üniversitesi'nde **Yönetim Bilişim Sistemleri (MIS)** ö�
 - 🔭 Şu an **MySQL ile veri tabanı mimarisi** üzerine çalışıyorum.
 - 🌱 **C ve Python** kullanarak algoritma mantığımı ve sistem programlama becerilerimi derinleştiriyorum.
 - 🐧 **Kali Linux** üzerinde siber güvenlik araçlarını deneyimliyorum.
-- ⚡ **Hobilerim:** FPS oyunları, psikoloji okumaları ve kodlama maratonları.
-
+  
 ---
 
 ### 🛠️ Yetkinliklerim & Teknolojiler
