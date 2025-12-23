@@ -1,5 +1,5 @@
 Selam 👋, Ben Burak!
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+Burak!;MIS+%C3%96%C4%9Frencisi;Backend+Developer;Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1;Database+Management;Python+%26+C+Developer" alt="Typing SVG" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=burakkarakus38&color=blueviolet&style=flat-square&label=Profil+Görüntülenme" alt="Profile views" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+Burak!;MIS+%C3%96%C4%9Frencisi;Backend+Developer;Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1;Database+Management;Python+%26+C+Developer" alt="Typing SVG" /> </div>
 🚀 Hakkımda
 
 Hatay Mustafa Kemal Üniversitesi'nde Yönetim Bilişim Sistemleri (MIS) öğrencisiyim. Veri tabanı yönetimi, backend geliştirme ve Siber Güvenlik alanlarına odaklanıyorum.
@@ -11,7 +11,7 @@ Hatay Mustafa Kemal Üniversitesi'nde Yönetim Bilişim Sistemleri (MIS) öğren
     🎯 Hedefim: Güvenli ve ölçeklenebilir sistemler geliştirmek
 
 🏆 GitHub Başarıları
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=burakkarakus38&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=burakkarakus38&theme=radical&no-frame=true&column=6" alt="trophy" /> </div>
 🛠️ Yetkinliklerim & Teknolojiler
 💻 Programlama Dilleri
 
@@ -28,25 +28,23 @@ Hatay Mustafa Kemal Üniversitesi'nde Yönetim Bilişim Sistemleri (MIS) öğren
 🐍 Katkı Grafiği
 <div align="center"> <img src="https://raw.githubusercontent.com/burakkarakus38/burakkarakus38/output/snake.svg" alt="Snake animation" /> </div>
 🎯 Öğrenme Yolculuğum
-mermaid
+<div align="center">
 
-graph LR
-    A[MySQL Mastery] --> B[PostgreSQL]
-    C[Python Advanced] --> D[Django/Flask]
-    E[Kali Linux] --> F[Penetration Testing]
-    G[C Programming] --> H[System Programming]
-    B --> I[Database Architect]
-    D --> I
-    F --> J[Cybersecurity Expert]
-    H --> J
+Backend & Database
+MySQL ➜ PostgreSQL ➜ Database Architect
+Python ➜ Django/Flask ➜ Full-Stack Development
 
+Cybersecurity
+Kali Linux ➜ Penetration Testing ➜ Security Expert
+C Programming ➜ System Programming ➜ Low-Level Security
+</div>
+📫 Benimle İletişime Geçin
+<div align="center">
 
 </div>
 💭 Rastgele Dev Quote
 <div align="center">
 
 </div> <div align="center">
-🌟 "Öğrenmek, keşfetmek ve paylaşmak..." 🌟
-
 ⭐ Projelerimi beğendiyseniz yıldız vermeyi unutmayın!
 </div>
