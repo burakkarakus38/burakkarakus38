@@ -1,0 +1,35 @@
+name: Update Dev Quote
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Her 6 saatte bir çalışır
+  workflow_dispatch: # Manuel tetikleme için
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install Dependencies
+        run: |
+          pip install requests cairosvg pillow
+          
+      - name: Generate Quote SVG
+        run: |
+          python generate_quote.py
+          
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/quote.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update dev quote"
+          git push
