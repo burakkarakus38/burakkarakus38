@@ -1,30 +1,52 @@
-### 👋 Selam, Ben Burak!
-Hatay Mustafa Kemal Üniversitesi'nde **Yönetim Bilişim Sistemleri (MIS)** öğrencisiyim. Veri tabanı yönetimi, backend geliştirme ve Siber Güvenlik alanlarına odaklanıyorum.
+Selam 👋, Ben Burak!
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+Burak!;MIS+%C3%96%C4%9Frencisi;Backend+Developer;Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1;Database+Management;Python+%26+C+Developer" alt="Typing SVG" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=burakkarakus38&color=blueviolet&style=flat-square&label=Profil+Görüntülenme" alt="Profile views" /> </div>
+🚀 Hakkımda
 
-- 🔭 Şu an **MySQL ile veri tabanı mimarisi** üzerine çalışıyorum.
-- 🌱 **C ve Python** kullanarak algoritma mantığımı ve sistem programlama becerilerimi derinleştiriyorum.
-- 🐧 **Kali Linux** üzerinde siber güvenlik araçlarını deneyimliyorum.
-  
----
+Hatay Mustafa Kemal Üniversitesi'nde Yönetim Bilişim Sistemleri (MIS) öğrencisiyim. Veri tabanı yönetimi, backend geliştirme ve Siber Güvenlik alanlarına odaklanıyorum.
 
-### 🛠️ Yetkinliklerim & Teknolojiler
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    🔭 Şu an MySQL ile veri tabanı mimarisi üzerine çalışıyorum
+    🌱 C ve Python kullanarak algoritma mantığımı ve sistem programlama becerilerimi derinleştiriyorum
+    🐧 Kali Linux üzerinde siber güvenlik araçlarını deneyimliyorum
+    💡 Backend geliştirme ve sistem güvenliği konularında kendimi geliştiriyorum
+    🎯 Hedefim: Güvenli ve ölçeklenebilir sistemler geliştirmek
 
----
+🏆 GitHub Başarıları
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=burakkarakus38&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy" /> </div>
+🛠️ Yetkinliklerim & Teknolojiler
+💻 Programlama Dilleri
 
-### 📊 GitHub İstatistiklerim
+🗄️ Veritabanları
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burakkarakus38&show_icons=true&theme=dark&locale=tr" alt="GitHub Stats" />
+🐧 İşletim Sistemleri & Araçlar
+
+🔒 Siber Güvenlik
+
+📊 GitHub İstatistiklerim
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=burakkarakus38&show_icons=true&theme=radical&hide_border=true&locale=tr" alt="GitHub Stats" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=burakkarakus38&theme=radical&hide_border=true" alt="GitHub Streak" /> </div> <div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakkarakus38&layout=compact&theme=radical&hide_border=true&locale=tr" alt="Top Languages" /> </div>
+📈 Aktivite Grafiği
+
+🐍 Katkı Grafiği
+<div align="center"> <img src="https://raw.githubusercontent.com/burakkarakus38/burakkarakus38/output/snake.svg" alt="Snake animation" /> </div>
+🎯 Öğrenme Yolculuğum
+mermaid
+
+graph LR
+    A[MySQL Mastery] --> B[PostgreSQL]
+    C[Python Advanced] --> D[Django/Flask]
+    E[Kali Linux] --> F[Penetration Testing]
+    G[C Programming] --> H[System Programming]
+    B --> I[Database Architect]
+    D --> I
+    F --> J[Cybersecurity Expert]
+    H --> J
+
+
 </div>
-
----
-
-### 🐍 Katkı Grafiği
-
+💭 Rastgele Dev Quote
 <div align="center">
-  <img src="https://raw.githubusercontent.com/burakkarakus38/burakkarakus38/output/snake.svg" alt="Snake animation" />
+
+</div> <div align="center">
+🌟 "Öğrenmek, keşfetmek ve paylaşmak..." 🌟
+
+⭐ Projelerimi beğendiyseniz yıldız vermeyi unutmayın!
 </div>
