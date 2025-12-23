@@ -27,4 +27,4 @@ Hatay Mustafa Kemal Üniversitesi'nde **Yönetim Bilişim Sistemleri (MIS)** ö�
   </p>
 </div>
 
-![Snake animation](https://github.com/burakkarakus38_burakkarakus38/blob/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/burakkarakus38/burakkarakus38/output/snake.svg)
