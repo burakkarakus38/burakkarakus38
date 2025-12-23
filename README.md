@@ -25,29 +25,11 @@ Hatay Mustafa Kemal Üniversitesi'nde Yönetim Bilişim Sistemleri (MIS) öğren
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=burakkarakus38&show_icons=true&theme=radical&hide_border=true&locale=tr&count_private=true" alt="GitHub Stats" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=burakkarakus38&theme=radical&hide_border=true&locale=tr" alt="GitHub Streak" /> </div> <div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakkarakus38&layout=compact&theme=radical&hide_border=true&locale=tr&langs_count=8" alt="Top Languages" /> </div>
 📈 Aktivite Grafiği
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=burakkarakus38&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" /> </div>
+💭 Rastgele Dev Quote
+<div align="center"> <img src="https://raw.githubusercontent.com/burakkarakus38/burakkarakus38/output/quote.svg" alt="Dev Quote" /> </div>
 🐍 Katkı Grafiği
 <div align="center"> <img src="https://raw.githubusercontent.com/burakkarakus38/burakkarakus38/output/snake.svg" alt="Snake animation" /> </div>
-🎯 Öğrenme Yolculuğum
-<div align="center">
-
-Backend & Database
-
-MySQL ➜ PostgreSQL ➜ Database Architect
-
-Python ➜ Django/Flask ➜ Full-Stack Development
-
-Cybersecurity
-
-Kali Linux ➜ Penetration Testing ➜ Security Expert
-
-C Programming ➜ System Programming ➜ Low-Level Security
-</div>
-📫 Benimle İletişime Geçin:
-   ahmetburrakk22@gmail.com
-<div align="center">
-
-</div>
-💭 Rastgele Dev Quote
+📫 Benimle İletişime Geçin: ahmetburrakk22@gmail.com
 <div align="center">
 
 </div> <div align="center">
