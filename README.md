@@ -37,7 +37,7 @@ Hatay Mustafa Kemal Üniversitesi Yönetim Bilişim Sistemleri (MIS) bölümü �
 <br />
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakkarakus38&layout=compact&theme=transparent&hide_border=true&locale=tr&langs_count=8" alt="Kullanılan Diller" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakkarakus38&layout=donut&theme=transparent&hide_border=true&locale=tr&langs_count=8" alt="Kullanılan Diller" />
 </div>
 ## Aktivite Grafiği
 
