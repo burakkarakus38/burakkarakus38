@@ -25,14 +25,20 @@ Hatay Mustafa Kemal Üniversitesi Yönetim Bilişim Sistemleri (MIS) bölümü �
 ## GitHub İstatistikleri
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=burakkarakus38&show_icons=true&theme=neutral&hide_border=true&locale=tr&count_private=true" alt="GitHub İstatistikleri" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=burakkarakus38&theme=neutral&hide_border=true&locale=tr" alt="GitHub Kullanım Serisi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=burakkarakus38&show_icons=true&theme=transparent&hide_border=true&locale=tr&count_private=true" alt="GitHub İstatistikleri" />
 </div>
+
+<br />
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakkarakus38&layout=compact&theme=neutral&hide_border=true&locale=tr&langs_count=8" alt="Kullanılan Diller" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burakkarakus38&theme=transparent&hide_border=true&locale=tr" alt="GitHub Kullanım Serisi" />
 </div>
 
+<br />
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakkarakus38&layout=compact&theme=transparent&hide_border=true&locale=tr&langs_count=8" alt="Kullanılan Diller" />
+</div>
 ## Aktivite Grafiği
 
 <div align="center">
