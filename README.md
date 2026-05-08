@@ -48,5 +48,5 @@ Hatay Mustafa Kemal Üniversitesi Yönetim Bilişim Sistemleri (MIS) bölümü �
 ## İletişim
 
 * **E-posta:** ahmetburrakk22@gmail.com
-* **LinkedIn:** [Profil Linkiniz]
+* **LinkedIn:** https://www.linkedin.com/in/ahmetburakkarakus/
 * **GitHub:** [github.com/burakkarakus38](https://github.com/burakkarakus38)
